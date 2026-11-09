@@ -1,0 +1,6 @@
+{
+  "name": "Cô ấy đã bắt đầu như thế",
+  "description": "Sách điện tử lật trang: Cô ấy đã bắt đầu như thế - Những câu chuyện nữ giới trong STEM. Câu lạc bộ STEM EMGIS, Tỉnh Phú Thọ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
