@@ -50,7 +50,7 @@ export const BookBackCover: React.FC<BookBackCoverProps> = ({ onGoToFirstPage })
         <div className="w-16 h-0.5 bg-[#B66A50] mx-auto" />
 
         <blockquote className="font-serif-book text-sm sm:text-base text-[#203746]/85 italic leading-relaxed px-4">
-          "Không ai bắt buộc các em phải trở thành nhà khoa học vĩ đại. Điều quan trọng nhất là các em dám tự tin đặt một câu hỏi, dám cầm dụng cụ lên để thử, và tin rằng trí tuệ của mình có thể chạm đến bất kỳ đỉnh cao nào."
+          "Không ai bắt buộc các bạn phải trở thành nhà khoa học vĩ đại. Điều quan trọng nhất là các bạn dám tự tin đặt một câu hỏi, dám cầm dụng cụ lên để thử, và tin rằng trí tuệ của mình có thể chạm đến bất kỳ đỉnh cao nào."
         </blockquote>
 
         <div className="pt-4 space-y-2 text-xs font-serif-book text-[#203746]/70 leading-relaxed max-w-md mx-auto">

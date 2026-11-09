@@ -3,34 +3,34 @@ import { FinalReflectionPrompt, QuizQuestion, PracticalChallenge } from '../type
 export const FINAL_REFLECTIONS: FinalReflectionPrompt[] = [
   {
     id: 'S1',
-    title: 'Một khởi đầu gần với em',
-    prompt: 'Nhân vật nào khiến em cảm thấy con đường đến với STEM gần với mình hơn? Nêu một chi tiết cụ thể trong câu chuyện, giải thích điều em nhận ra và chọn một việc nhỏ em có thể thử trong tuần tới. Nếu chưa thấy nhân vật nào gần với mình, em có thể nói điều mình còn băn khoăn và sự hỗ trợ mình cần.',
+    title: 'Một khởi đầu gần với bạn',
+    prompt: 'Nhân vật nào khiến bạn cảm thấy con đường đến với STEM gần với mình hơn? Nêu một chi tiết cụ thể trong câu chuyện, giải thích điều bạn nhận ra và chọn một việc nhỏ bạn có thể thử trong tuần tới. Nếu chưa thấy nhân vật nào gần với mình, bạn có thể nói điều mình còn băn khoăn và sự hỗ trợ mình cần.',
     wordCountRecommendation: 'Khoảng 80–120 từ (hoặc trả lời theo gạch đầu dòng cụ thể)',
     selfChecklist: [
-      'Em đã nhắc đến một chi tiết cụ thể trong sách chưa?',
-      'Em đã giải thích suy nghĩ của riêng mình chưa?',
-      'Em đã nêu một việc có thể làm hoặc một hỗ trợ mình cần chưa?',
+      'Bạn đã nhắc đến một chi tiết cụ thể trong sách chưa?',
+      'Bạn đã giải thích suy nghĩ của riêng mình chưa?',
+      'Bạn đã nêu một việc có thể làm hoặc một hỗ trợ mình cần chưa?',
     ],
   },
   {
     id: 'S2',
-    title: 'Điều em nghĩ đã thay đổi — hoặc vẫn còn là câu hỏi',
-    prompt: 'Trước khi đọc, em nghĩ gì về việc nữ sinh tham gia khoa học và công nghệ? Sau khi đọc, có điều gì thay đổi hoặc vẫn chưa được giải đáp? Dùng ít nhất một câu chuyện để giải thích; em không cần viết rằng mình đã thay đổi nếu thực tế chưa thay đổi.',
-    wordCountRecommendation: 'Khoảng 80–120 từ (tôn trọng cảm nhận thực chất của em)',
+    title: 'Điều bạn nghĩ đã thay đổi — hoặc vẫn còn là câu hỏi',
+    prompt: 'Trước khi đọc, bạn nghĩ gì về việc nữ sinh tham gia khoa học và công nghệ? Sau khi đọc, có điều gì thay đổi hoặc vẫn chưa được giải đáp? Dùng ít nhất một câu chuyện để giải thích; bạn không cần viết rằng mình đã thay đổi nếu thực tế chưa thay đổi.',
+    wordCountRecommendation: 'Khoảng 80–120 từ (tôn trọng cảm nhận thực chất của bạn)',
     selfChecklist: [
-      'Em đã nhắc đến ít nhất một câu chuyện cụ thể chưa?',
-      'Em đã so sánh suy nghĩ trước và sau khi đọc (hoặc nêu băn khoăn còn lại) chưa?',
-      'Em đã giữ được suy nghĩ chân thật của chính mình chưa?',
+      'Bạn đã nhắc đến ít nhất một câu chuyện cụ thể chưa?',
+      'Bạn đã so sánh suy nghĩ trước và sau khi đọc (hoặc nêu băn khoăn còn lại) chưa?',
+      'Bạn đã giữ được suy nghĩ chân thật của chính mình chưa?',
     ],
   },
   {
     id: 'S3',
-    title: 'Một cánh cửa em muốn mở',
-    prompt: 'Hãy tưởng tượng nhóm em tổ chức một buổi STEM cho những bạn chưa từng tham gia. Từ các câu chuyện trong sách, em sẽ chọn hai cách tổ chức nào để mọi bạn đều được cầm dụng cụ, thử một ý tưởng hoặc đóng góp quyết định? Em sẽ trực tiếp đảm nhận việc gì?',
+    title: 'Một cánh cửa bạn muốn mở',
+    prompt: 'Hãy tưởng tượng nhóm bạn tổ chức một buổi STEM cho những bạn chưa từng tham gia. Từ các câu chuyện trong sách, bạn sẽ chọn hai cách tổ chức nào để mọi bạn đều được cầm dụng cụ, thử một ý tưởng hoặc đóng góp quyết định? Bạn sẽ trực tiếp đảm nhận việc gì?',
     wordCountRecommendation: 'Khoảng 80–120 từ (gắn với việc làm thực tế)',
     selfChecklist: [
-      'Em đã chọn hai cách tổ chức từ các câu chuyện trong sách chưa?',
-      'Em đã nêu rõ việc em sẽ trực tiếp đảm nhận chưa?',
+      'Bạn đã chọn hai cách tổ chức từ các câu chuyện trong sách chưa?',
+      'Bạn đã nêu rõ việc bạn sẽ trực tiếp đảm nhận chưa?',
       'Cách tổ chức có giúp các bạn rụt rè được tham gia không?',
     ],
   },
@@ -210,8 +210,8 @@ export const QUIZ_QUESTIONS: QuizQuestion[] = [
 export const PRACTICAL_CHALLENGES: PracticalChallenge[] = [
   {
     id: 'T1',
-    title: 'Một câu hỏi từ âm thanh quanh em',
-    openIdea: 'Tiếng nhạc cụ, tiếng gõ hoặc âm thanh quen thuộc ở nơi em sống có thể trở thành điểm bắt đầu của một câu hỏi khoa học.',
+    title: 'Một câu hỏi từ âm thanh quanh bạn',
+    openIdea: 'Tiếng nhạc cụ, tiếng gõ hoặc âm thanh quen thuộc ở nơi bạn sống có thể trở thành điểm bắt đầu của một câu hỏi khoa học.',
     mission: 'Chọn một nguồn âm thanh có thể tìm hiểu an toàn. Nêu một câu hỏi, xác định một yếu tố muốn thay đổi và thiết kế cách so sánh.',
     easyTip: 'Dùng một thước nhựa còn nguyên vẹn, giữ một phần trên mép bàn chắc chắn và khẽ gảy phần nhô ra. So sánh âm thanh khi thay đổi chiều dài phần nhô ra; giữ cùng một thước và cách gảy gần giống nhau. Không cần dự đoán đúng trước khi làm.',
     steps: [
@@ -231,11 +231,11 @@ export const PRACTICAL_CHALLENGES: PracticalChallenge[] = [
     mission: 'Chọn một hoa văn có thể quan sát và được phép sử dụng; mô tả quy luật hình học rồi thiết kế một phiên bản trên giấy ô vuông hoặc công cụ vẽ số.',
     easyTip: 'Quan sát họa tiết hoa văn thổ cẩm, đồ mây tre đan hoặc rèm cửa ở nhà; tìm họa tiết lặp lại nhiều lần.',
     steps: [
-      '1. Ghi nguồn quan sát: đồ vật của gia đình, tư liệu được phép dùng hoặc hoa văn do em tự thiết kế. Nếu dùng hoa văn văn hóa bản địa, ghi đúng cộng đồng khi có thông tin xác thực.',
+      '1. Ghi nguồn quan sát: đồ vật của gia đình, tư liệu được phép dùng hoặc hoa văn do bạn tự thiết kế. Nếu dùng hoa văn văn hóa bản địa, ghi đúng cộng đồng khi có thông tin xác thực.',
       '2. Vẽ đơn vị họa tiết cơ bản; xác định quy luật lặp, tịnh tiến, đối xứng hoặc phép quay nếu có. Một họa tiết không bắt buộc có tất cả các tính chất này.',
       '3. Tạo ít nhất hai phương án bố trí bằng cách thay đổi một yếu tố, chẳng hạn kích thước đơn vị hoặc khoảng lặp. Ghi rõ yếu tố đã thay đổi.',
-      '4. So sánh hai phương án theo tiêu chí em chọn trước: số ô sử dụng, số lần lặp hoặc mức độ phù hợp với kích thước khung.',
-      '5. Không tự gán ý nghĩa văn hóa cho họa tiết khi chưa có nguồn. Phân biệt hoa văn nguyên gốc với phiên bản học tập do em biến đổi.',
+      '4. So sánh hai phương án theo tiêu chí bạn chọn trước: số ô sử dụng, số lần lặp hoặc mức độ phù hợp với kích thước khung.',
+      '5. Không tự gán ý nghĩa văn hóa cho họa tiết khi chưa có nguồn. Phân biệt hoa văn nguyên gốc với phiên bản học tập do bạn biến đổi.',
     ],
     deliverable: 'Bản phác họa nguồn, hai phương án thiết kế và đoạn giải thích quy luật cùng kết quả so sánh. Có thể làm hoàn toàn trên giấy.',
   },
@@ -243,7 +243,7 @@ export const PRACTICAL_CHALLENGES: PracticalChallenge[] = [
     id: 'T3',
     title: 'Thiết kế một chiếc cầu giấy và thử lại',
     openIdea: 'Từ câu chuyện vật liệu và cách các nhà khoa học làm việc, hãy thử biến một ý tưởng thành mô hình có thể so sánh bằng dữ liệu.',
-    mission: 'Dùng cùng loại giấy và cùng lượng giấy để tạo hai cách gấp cầu bắc qua hai điểm tựa thấp. Tìm hiểu cách gấp ảnh hưởng thế nào đến khả năng đỡ tải trong cách thử của nhóm.',
+    mission: 'Dùng cùng loại giấy và cùng lượng giấy để tạo hai cách gấp cầu bắc qua hai điểm tựa thấp. Tìm hiểu cách gấp ảnh hưởng thế nào đến khả năng đỡ tải trong cách thử của nhóm bạn.',
     easyTip: 'Dùng giấy A4 đã qua sử dụng 1 mặt để tiết kiệm. Tạo 2 điểm tựa bằng 2 chồng sách có độ cao bằng nhau.',
     steps: [
       '1. Viết câu hỏi, dự đoán và xác định yếu tố thay đổi là cách gấp giấy. Giữ loại giấy, số tờ mỗi mẫu, khoảng cách hai điểm tựa và cách đặt tải gần giống nhau.',
@@ -258,18 +258,18 @@ export const PRACTICAL_CHALLENGES: PracticalChallenge[] = [
 ];
 
 export const JOURNAL_QUESTIONS = [
-  { id: 'j1', label: '1. Em chọn nhiệm vụ nào?' },
-  { id: 'j2', label: '2. Câu chuyện nào trong sách gợi cho em ý tưởng này? Chi tiết nào có liên quan?' },
-  { id: 'j3', label: '3. Câu hỏi em muốn tìm hiểu là gì?' },
-  { id: 'j4', label: '4. Em dự đoán điều gì và vì sao?' },
-  { id: 'j5', label: '5. Em cần dụng cụ, vật liệu và sự hỗ trợ nào?' },
-  { id: 'j6', label: '6. Yếu tố nào được thay đổi? Điều kiện nào cần giữ gần giống nhau? Với hoạt động thiết kế, em dùng tiêu chí nào để so sánh?' },
-  { id: 'j7', label: '7. Em đã trực tiếp làm gì? (Ghi việc cụ thể, không chỉ tên nhóm hoặc tên sản phẩm)' },
-  { id: 'j8', label: '8. Em đã ghi được kết quả hoặc dữ liệu nào? Có lần thử nào chưa thành công không?' },
-  { id: 'j9', label: '9. Khi gặp khó khăn, em đã tiếp tục hoặc điều chỉnh như thế nào? Nếu chưa tiếp tục được, em cần hỗ trợ gì?' },
-  { id: 'j10', label: '10. Em đã chủ động đề xuất, hỏi, giải thích hoặc đóng góp quyết định nào? Nếu chưa có, em có thể ghi điều muốn thử ở lần sau.' },
-  { id: 'j11', label: '11. Kết quả cho phép em nói điều gì? Điều gì còn chưa thể kết luận?' },
-  { id: 'j12', label: '12. Bước tiếp theo em muốn thực hiện là gì?' },
+  { id: 'j1', label: '1. Bạn chọn nhiệm vụ nào?' },
+  { id: 'j2', label: '2. Câu chuyện nào trong sách gợi cho bạn ý tưởng này? Chi tiết nào có liên quan?' },
+  { id: 'j3', label: '3. Câu hỏi bạn muốn tìm hiểu là gì?' },
+  { id: 'j4', label: '4. Bạn dự đoán điều gì và vì sao?' },
+  { id: 'j5', label: '5. Bạn cần dụng cụ, vật liệu và sự hỗ trợ nào?' },
+  { id: 'j6', label: '6. Yếu tố nào được thay đổi? Điều kiện nào cần giữ gần giống nhau? Với hoạt động thiết kế, bạn dùng tiêu chí nào để so sánh?' },
+  { id: 'j7', label: '7. Bạn đã trực tiếp làm gì? (Ghi việc cụ thể, không chỉ tên nhóm hoặc tên sản phẩm)' },
+  { id: 'j8', label: '8. Bạn đã ghi được kết quả hoặc dữ liệu nào? Có lần thử nào chưa thành công không?' },
+  { id: 'j9', label: '9. Khi gặp khó khăn, bạn đã tiếp tục hoặc điều chỉnh như thế nào? Nếu chưa tiếp tục được, bạn cần hỗ trợ gì?' },
+  { id: 'j10', label: '10. Bạn đã chủ động đề xuất, hỏi, giải thích hoặc đóng góp quyết định nào? Nếu chưa có, bạn có thể ghi điều muốn thử ở lần sau.' },
+  { id: 'j11', label: '11. Kết quả cho phép bạn nói điều gì? Điều gì còn chưa thể kết luận?' },
+  { id: 'j12', label: '12. Bước tiếp theo bạn muốn thực hiện là gì?' },
 ];
 
 export const TEACHER_RUBRIC_CRITERIA = [

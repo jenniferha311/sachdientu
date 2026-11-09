@@ -200,7 +200,7 @@ export function useBookStorage() {
       md += `### [${fig.code}] ${fig.name} - ${fig.storyTitle}\n`;
       md += `*Câu hỏi:* ${fig.reflectionQuestion}\n\n`;
       if (entry && entry.answer && entry.answer.trim()) {
-        md += `**Câu trả lời của em (${entry.status === 'later' ? 'Ghi chú để sau' : 'Đã hoàn thành'}):**\n${entry.answer.trim()}\n\n`;
+        md += `**Câu trả lời của bạn (${entry.status === 'later' ? 'Ghi chú để sau' : 'Đã hoàn thành'}):**\n${entry.answer.trim()}\n\n`;
       } else {
         md += `*(Chưa nhập câu trả lời)*\n\n`;
       }
@@ -209,9 +209,9 @@ export function useBookStorage() {
     // 2. Final reflections
     md += `---\n\n## 2. NHÌN LẠI CUỐI SÁCH\n\n`;
     const finalPrompts = [
-      { id: 'S1', title: 'S1. Một khởi đầu gần với em' },
-      { id: 'S2', title: 'S2. Điều em nghĩ đã thay đổi — hoặc vẫn còn là câu hỏi' },
-      { id: 'S3', title: 'S3. Một cánh cửa em muốn mở' },
+      { id: 'S1', title: 'S1. Một khởi đầu gần với bạn' },
+      { id: 'S2', title: 'S2. Điều bạn nghĩ đã thay đổi — hoặc vẫn còn là câu hỏi' },
+      { id: 'S3', title: 'S3. Một cánh cửa bạn muốn mở' },
     ];
     finalPrompts.forEach((p) => {
       const text = state.finalReflections[p.id];
@@ -231,7 +231,7 @@ export function useBookStorage() {
         const userChoice = state.quizAnswers[q.id];
         const isCorrect = userChoice === q.correctKey;
         md += `${idx + 1}. [${q.id}] ${q.question}\n`;
-        md += `- Lựa chọn của em: ${userChoice || 'Chưa trả lời'}\n`;
+        md += `- Lựa chọn của bạn: ${userChoice || 'Chưa trả lời'}\n`;
         md += `- Đáp án chuẩn: ${q.correctKey}\n`;
         md += `- Kết quả: ${isCorrect ? 'ĐÚNG' : 'CHƯA ĐÚNG'}\n`;
         md += `- Giải thích: ${q.explanation}\n\n`;

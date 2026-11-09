@@ -78,7 +78,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
                 <span>PHẦN TƯƠNG TÁC CUỐI SÁCH</span>
               </div>
               <h2 className="font-serif-book font-bold text-2xl sm:text-3xl text-[#203746] mt-1">
-                Đến lượt em bắt đầu
+                Đến lượt bạn bắt đầu
               </h2>
               <p className="font-serif-book italic text-xs sm:text-sm text-[#203746]/70 mt-1">
                 Suy ngẫm cá nhân, trắc nghiệm đọc hiểu và thử thách thực hành tự chọn.
@@ -90,10 +90,10 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
               <button
                 onClick={onExportMarkdown}
                 className="px-3 py-1.5 rounded-md bg-[#397D78] hover:bg-[#2C625E] text-white font-medium shadow-xs transition-colors flex items-center gap-1.5 cursor-pointer"
-                title="Tải tệp Markdown toàn bộ câu trả lời của em"
+                title="Tải tệp Markdown toàn bộ câu trả lời của bạn"
               >
                 <Download className="w-3.5 h-3.5" />
-                <span>Tải phiếu của em (.md)</span>
+                <span>Tải phiếu của bạn (.md)</span>
               </button>
 
               <button
@@ -119,7 +119,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
           <div className="mt-3 p-2 bg-[#F0EBE0] rounded-md text-[11px] font-sans-ui text-[#203746]/70 flex items-center gap-2">
             <AlertCircle className="w-3.5 h-3.5 text-[#397D78] shrink-0" />
             <span>
-              Bài của em được lưu trên trình duyệt này; hãy tải bản sao nếu dùng thiết bị dùng chung. Dữ liệu hoàn toàn bảo mật và không gửi lên máy chủ.
+              Bài của bạn được lưu trên trình duyệt này; hãy tải bản sao nếu dùng thiết bị dùng chung. Dữ liệu hoàn toàn bảo mật và không gửi lên máy chủ.
             </span>
           </div>
 
@@ -181,7 +181,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
                 Lời mời suy ngẫm sau khi đọc xong:
               </p>
               <p className="font-serif-book italic text-xs sm:text-sm text-[#203746]/80 leading-relaxed">
-                Chọn một câu hỏi em muốn trả lời. Một chi tiết cụ thể từ sách và một việc em có thể làm sẽ giúp suy ngẫm của em rõ hơn. Em có thể viết khoảng 80–120 từ hoặc trả lời theo gạch đầu dòng.
+                Chọn một câu hỏi bạn muốn trả lời. Một chi tiết cụ thể từ sách và một việc bạn có thể làm sẽ giúp suy ngẫm của bạn rõ hơn. Bạn có thể viết khoảng 80–120 từ hoặc trả lời theo gạch đầu dòng.
               </p>
             </div>
 
@@ -218,7 +218,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
                       value={val}
                       onChange={(e) => onSaveFinalReflection(prompt.id, e.target.value)}
                       onKeyDown={(e) => e.stopPropagation()}
-                      placeholder="Viết suy ngẫm của em tại đây..."
+                      placeholder="Viết suy ngẫm của bạn tại đây..."
                       className="w-full p-3 bg-[#FAF7F0] rounded-lg border border-[#D9D0BE] text-xs sm:text-sm font-serif-book text-[#203746] focus:outline-none focus:border-[#397D78] leading-relaxed resize-y"
                     />
 
@@ -245,7 +245,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
                 Lời mở đầu trắc nghiệm:
               </p>
               <p className="font-serif-book italic text-xs sm:text-sm text-[#203746]/80 leading-relaxed">
-                Các câu hỏi giúp em nhìn lại những điều đã đọc. Em có thể quay về câu chuyện để tìm bằng chứng. Kết quả không dùng để kết luận em có phù hợp với STEM hay không.
+                Các câu hỏi giúp bạn nhìn lại những điều đã đọc. Bạn có thể quay về câu chuyện để tìm bằng chứng. Kết quả không dùng để kết luận bạn có phù hợp với STEM hay không.
               </p>
             </div>
 
@@ -254,10 +254,10 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
               <div className="p-5 bg-emerald-50 rounded-xl border border-emerald-200 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                 <div>
                   <h3 className="font-serif-book font-bold text-lg text-emerald-900">
-                    Kết quả đọc hiểu của em: {state.quizScore}/12 câu đúng
+                    Kết quả đọc hiểu của bạn: {state.quizScore}/12 câu đúng
                   </h3>
                   <p className="font-serif-book text-xs sm:text-sm text-emerald-800 mt-1">
-                    Em trả lời đúng {state.quizScore}/12 câu. Hãy xem lại những câu chuyện em muốn hiểu thêm bên dưới.
+                    Bạn trả lời đúng {state.quizScore}/12 câu. Hãy xem lại những câu chuyện bạn muốn hiểu thêm bên dưới.
                   </p>
                 </div>
                 <button
@@ -401,8 +401,8 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
               <div className="p-4 bg-[#F0EBE0] rounded-xl border border-[#D9D0BE] flex justify-between items-center font-sans-ui">
                 <span className="text-xs text-[#203746]/70">
                   {unansweredCount > 0 
-                    ? `Em còn ${unansweredCount} câu chưa trả lời. Các câu bỏ trống sẽ được tính 0 điểm.`
-                    : 'Em đã trả lời đủ 12 câu.'}
+                    ? `Bạn còn ${unansweredCount} câu chưa trả lời. Các câu bỏ trống sẽ được tính 0 điểm.`
+                    : 'Bạn đã trả lời đủ 12 câu.'}
                 </span>
                 <button
                   onClick={onSubmitQuiz}
@@ -423,7 +423,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
                 Lời mời bắt đầu thử thách thực hành:
               </p>
               <p className="font-serif-book italic text-xs sm:text-sm text-[#203746]/80 leading-relaxed">
-                Em không cần bắt đầu bằng một phát minh lớn. Hãy chọn một câu hỏi gần mình, trực tiếp làm một việc và ghi lại điều đã xảy ra. Có thể làm một mình hoặc theo nhóm 2–4 bạn.
+                Bạn không cần bắt đầu bằng một phát minh lớn. Hãy chọn một câu hỏi gần mình, trực tiếp làm một việc và ghi lại điều đã xảy ra. Có thể làm một mình hoặc theo nhóm 2–4 bạn.
               </p>
             </div>
 
@@ -522,7 +522,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
                         value={val}
                         onChange={(e) => onSaveJournalField(jq.id, e.target.value)}
                         onKeyDown={(e) => e.stopPropagation()}
-                        placeholder="Ghi nhận câu trả lời của em..."
+                        placeholder="Ghi nhận câu trả lời của bạn..."
                         className="w-full p-2.5 bg-[#FAF7F0] rounded-lg border border-[#D9D0BE] text-xs font-serif-book text-[#203746] focus:outline-none focus:border-[#397D78] leading-relaxed resize-y"
                       />
                     </div>
@@ -536,13 +536,13 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
                   Bảng tự nhìn lại hành động
                 </h4>
                 <p className="text-xs text-[#203746]/70 italic">
-                  Ghi việc cụ thể em đã làm hoặc đánh dấu "Chưa thực hiện":
+                  Ghi việc cụ thể bạn đã làm hoặc đánh dấu "Chưa thực hiện":
                 </p>
 
                 <div className="space-y-3 text-xs">
                   <div className="p-3 bg-[#FAF7F0] rounded-lg border border-[#E5DECE] space-y-1">
                     <span className="font-bold text-[#397D78]">1. Trực tiếp thực hiện:</span>
-                    <p className="text-[11px] text-[#203746]/70">Thao tác, quan sát, đo, vẽ, lập trình hoặc làm mẫu nào do em thực hiện?</p>
+                    <p className="text-[11px] text-[#203746]/70">Thao tác, quan sát, đo, vẽ, lập trình hoặc làm mẫu nào do bạn thực hiện?</p>
                     <input
                       type="text"
                       value={state.challengeActionReview.directAction}
@@ -555,7 +555,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
 
                   <div className="p-3 bg-[#FAF7F0] rounded-lg border border-[#E5DECE] space-y-1">
                     <span className="font-bold text-[#B66A50]">2. Duy trì hoạt động:</span>
-                    <p className="text-[11px] text-[#203746]/70">Em đã quay lại công việc, thử lại hoặc điều chỉnh bước nào khi gặp khó khăn?</p>
+                    <p className="text-[11px] text-[#203746]/70">Bạn đã quay lại công việc, thử lại hoặc điều chỉnh bước nào khi gặp khó khăn?</p>
                     <input
                       type="text"
                       value={state.challengeActionReview.persistence}
@@ -568,7 +568,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
 
                   <div className="p-3 bg-[#FAF7F0] rounded-lg border border-[#E5DECE] space-y-1">
                     <span className="font-bold text-[#397D78]">3. Chủ động đóng góp:</span>
-                    <p className="text-[11px] text-[#203746]/70">Em đã đề xuất, hỏi, giải thích hoặc tham gia quyết định nào?</p>
+                    <p className="text-[11px] text-[#203746]/70">Bạn đã đề xuất, hỏi, giải thích hoặc tham gia quyết định nào?</p>
                     <input
                       type="text"
                       value={state.challengeActionReview.initiative}
@@ -672,7 +672,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
               Xác nhận làm lại bài trắc nghiệm?
             </h4>
             <p className="text-xs text-[#203746]/80 leading-relaxed">
-              Các lựa chọn trắc nghiệm sẽ được xóa để em thử sức lại từ đầu. Các bài viết suy ngẫm và nhật ký nhiệm vụ sẽ được giữ nguyên.
+              Các lựa chọn trắc nghiệm sẽ được xóa để bạn thử sức lại từ đầu. Các bài viết suy ngẫm và nhật ký nhiệm vụ sẽ được giữ nguyên.
             </p>
             <div className="flex justify-end gap-2 pt-2">
               <button
@@ -704,7 +704,7 @@ export const InteractiveActivitiesPage: React.FC<InteractiveActivitiesPageProps>
               <span>Xóa toàn bộ dữ liệu cá nhân?</span>
             </h4>
             <p className="text-xs text-[#203746]/80 leading-relaxed">
-              Hành động này sẽ xóa toàn bộ câu trả lời suy ngẫm, kết quả trắc nghiệm và nhật ký đã nhập trên thiết bị này. Trước khi xóa, em có thể bấm "Tải phiếu của em (.md)" để lưu lại bản sao.
+              Hành động này sẽ xóa toàn bộ câu trả lời suy ngẫm, kết quả trắc nghiệm và nhật ký đã nhập trên thiết bị này. Trước khi xóa, bạn có thể bấm "Tải phiếu của bạn (.md)" để lưu lại bản sao.
             </p>
             <div className="flex justify-end gap-2 pt-2">
               <button

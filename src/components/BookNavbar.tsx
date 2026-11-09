@@ -85,10 +85,10 @@ export const BookNavbar: React.FC<BookNavbarProps> = ({
           <button
             onClick={onOpenActivities}
             className="px-2.5 py-1.5 rounded-md hover:bg-[#EAE3D2] transition-colors flex items-center gap-1.5 whitespace-nowrap shrink-0 text-[#B66A50] font-medium cursor-pointer"
-            title="Mở hoạt động: Đến lượt em bắt đầu"
+            title="Mở hoạt động: Đến lượt bạn bắt đầu"
           >
             <Sparkles className="w-4 h-4 text-[#B66A50]" />
-            <span>Đến lượt em</span>
+            <span>Đến lượt bạn</span>
           </button>
 
           <button

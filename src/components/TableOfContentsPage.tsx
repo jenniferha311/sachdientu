@@ -116,7 +116,7 @@ export const TableOfContentsPage: React.FC<TableOfContentsPageProps> = ({
             >
               <div className="flex items-center gap-2 text-[#B66A50] font-bold">
                 <Sparkles className="w-4 h-4 text-[#B66A50]" />
-                <span>Đến lượt em bắt đầu (Hoạt động tương tác)</span>
+                <span>Đến lượt bạn bắt đầu (Hoạt động tương tác)</span>
               </div>
               <span className="font-mono text-xs text-[#B66A50]">Trang 32</span>
             </button>

@@ -166,7 +166,7 @@ export const StoryPage: React.FC<StoryPageProps> = ({
 
             {/* Instruction */}
             <p className="text-xs font-serif-book italic text-[#203746]/75">
-              Em có thể viết 2–4 câu. Hãy dùng một chi tiết trong câu chuyện để giải thích suy nghĩ của mình. Em được quyền chưa có câu trả lời ngay.
+              Bạn có thể viết 2–4 câu. Hãy dùng một chi tiết trong câu chuyện để giải thích suy nghĩ của mình. Bạn được quyền chưa có câu trả lời ngay.
             </p>
 
             {/* Reflection question */}
@@ -186,7 +186,7 @@ export const StoryPage: React.FC<StoryPageProps> = ({
                   }
                 }}
                 rows={3}
-                placeholder="Nhập 2–4 câu suy ngẫm của em tại đây..."
+                placeholder="Nhập 2–4 câu suy ngẫm của bạn tại đây..."
                 className="w-full p-3 bg-white rounded-lg border border-[#D9D0BE] text-xs sm:text-sm font-serif-book text-[#203746] focus:outline-none focus:border-[#397D78] focus:ring-1 focus:ring-[#397D78] leading-relaxed transition-all resize-y"
               />
             </div>

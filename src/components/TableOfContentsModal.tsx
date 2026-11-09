@@ -37,7 +37,7 @@ export const TableOfContentsModal: React.FC<TableOfContentsModalProps> = ({
   // 15: Phần III
   // 16-29: Stories 10-23
   // 30: Lời kết
-  // 31: Đến lượt em bắt đầu
+  // 31: Đến lượt bạn bắt đầu
   // 32: Bìa sau
 
   const getFigurePageIndex = (figNumber: number) => {
@@ -81,7 +81,7 @@ export const TableOfContentsModal: React.FC<TableOfContentsModalProps> = ({
             <div className="p-3 bg-[#EAE3D2]/60 rounded-lg border border-[#D9D0BE] text-xs font-sans-ui">
               <div className="flex items-center gap-1.5 font-semibold text-[#B66A50] mb-2">
                 <Bookmark className="w-4 h-4 fill-[#B66A50]" />
-                <span>Trang em đã đánh dấu:</span>
+                <span>Trang bạn đã đánh dấu:</span>
               </div>
               <div className="flex flex-wrap gap-1.5">
                 {bookmarks.map((bm) => (
@@ -201,7 +201,7 @@ export const TableOfContentsModal: React.FC<TableOfContentsModalProps> = ({
             >
               <div className="flex items-center gap-2">
                 <Sparkles className="w-4 h-4 text-[#B66A50]" />
-                <span className="font-semibold">Đến lượt em bắt đầu (Hoạt động tương tác)</span>
+                <span className="font-semibold">Đến lượt bạn bắt đầu (Hoạt động tương tác)</span>
               </div>
               <span className="text-xs font-mono">Trang 32</span>
             </button>

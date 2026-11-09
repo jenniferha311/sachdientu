@@ -12,11 +12,11 @@ export const FOREWORD_TEXT = {
   title: 'Lời ngỏ',
   lead: 'Khoa học không bắt đầu từ những điều xa xôi, mà nảy mầm từ một câu hỏi rất đỗi gần gũi.',
   paragraphs: [
-    'Mỗi ngày khi bước chân đến trường, chúng ta nhìn thấy thế giới quanh mình vận hành: dòng điện thắp sáng lớp học, những chiếc lá đổi màu theo mùa, con đường dốc uốn lượn quanh sườn đồi, hay chiếc điện thoại trong túi kết nối với cả hành tinh. Đã bao giờ em tự hỏi: "Tại sao điều đó lại diễn ra?" hay "Liệu mình có thể làm cho nó hoạt động tốt hơn?".',
+    'Mỗi ngày khi bước chân đến trường, chúng ta nhìn thấy thế giới quanh mình vận hành: dòng điện thắp sáng lớp học, những chiếc lá đổi màu theo mùa, con đường dốc uốn lượn quanh sườn đồi, hay chiếc điện thoại trong túi kết nối với cả hành tinh. Đã bao giờ bạn tự hỏi: "Tại sao điều đó lại diễn ra?" hay "Liệu mình có thể làm cho nó hoạt động tốt hơn?".',
     'Khoa học, Công nghệ, Kỹ thuật và Toán học – những chữ cái viết tắt của STEM – đôi khi nghe có vẻ khô khan, đồ sộ hoặc thuộc về những phòng thí nghiệm xa xôi. Thế nhưng, lịch sử và đời sống thực tế đã chứng minh rằng: những bước tiến vĩ đại nhất của nhân loại thường bắt đầu từ một khoảnh khắc rất nhỏ: một cái nhìn chăm chú, một sự kiên trì lặp đi lặp lại một phép thử, hay khát khao giải quyết một khó khăn ngay tại bản làng của mình.',
     'Cuốn sách này được biên soạn dành tặng các bạn học sinh THPT, đặc biệt là các bạn nữ sinh dân tộc thiểu số tại các vùng trung du và miền núi – những người đang ấp ủ ước mơ nhưng đôi khi còn ngập ngừng trước ranh giới vô hình của định kiến giới hay hoàn cảnh địa lý.',
-    'Ở đây, em sẽ không bắt gặp những bức tượng đồng xa cách. Em sẽ gặp những cô giáo đưa năng lượng điện và rác thải vỏ tôm thành bài học sống động; những phụ nữ kiên nhẫn đo từng vết đen trên kính thiên văn, tính toán từng góc lệch của phi thuyền bay vào không gian; hay một bạn trẻ cùng trang lứa dùng trí tuệ nhân tạo để chăm sóc sức khỏe cho người dân vùng cao hẻo lánh.',
-    'Họ không bắt đầu bằng những điều hoàn hảo. Họ bắt đầu bằng sự tò mò, lòng dũng cảm bước qua e dè và một cuốn sổ tay ghi lại sự thật. Hãy lật từng trang, lắng nghe câu chuyện của họ, và rồi tự hỏi chính mình: "Em sẽ bắt đầu câu hỏi của mình như thế nào?".',
+    'Ở đây, bạn sẽ không bắt gặp những bức tượng đồng xa cách. Bạn sẽ gặp những cô giáo đưa năng lượng điện và rác thải vỏ tôm thành bài học sống động; những phụ nữ kiên nhẫn đo từng vết đen trên kính thiên văn, tính toán từng góc lệch của phi thuyền bay vào không gian; hay một bạn trẻ cùng trang lứa dùng trí tuệ nhân tạo để chăm sóc sức khỏe cho người dân vùng cao hẻo lánh.',
+    'Họ không bắt đầu bằng những điều hoàn hảo. Họ bắt đầu bằng sự tò mò, lòng dũng cảm bước qua e dè và một cuốn sổ tay ghi lại sự thật. Hãy lật từng trang, lắng nghe câu chuyện của họ, và rồi tự hỏi chính mình: "Bạn sẽ bắt đầu câu hỏi của mình như thế nào?".',
   ],
 };
 
@@ -24,10 +24,10 @@ export const EPILOGUE_TEXT = {
   title: 'Lời kết',
   lead: 'Hành trình khoa học không có vạch đích khép lại, chỉ có những cánh cửa tiếp tục mở ra.',
   paragraphs: [
-    'Hai mươi ba câu chuyện em vừa đọc qua không phải là những bài ca ca ngợi tài năng thiên bẩm, mà là biên niên sử của sự bền bỉ. Điểm chung lớn nhất giữa một nhà khoa học đạt giải Nobel, một cô giáo dạy học trên vùng cao và một nữ sinh viết mã lập trình không nằm ở nơi họ sinh ra hay điều kiện họ có được, mà ở thái độ trước những câu hỏi chưa có lời đáp.',
+    'Hai mươi ba câu chuyện bạn vừa đọc qua không phải là những bài ca ca ngợi tài năng thiên bẩm, mà là biên niên sử của sự bền bỉ. Điểm chung lớn nhất giữa một nhà khoa học đạt giải Nobel, một cô giáo dạy học trên vùng cao và một nữ sinh viết mã lập trình không nằm ở nơi họ sinh ra hay điều kiện họ có được, mà ở thái độ trước những câu hỏi chưa có lời đáp.',
     'Họ đã từng bị từ chối, từng làm hỏng hàng trăm mẫu thí nghiệm, từng đối mặt với ánh nhìn hoài nghi cho rằng con gái thì không nên chọn kỹ thuật hay nghiên cứu sâu. Nhưng thay vì lùi bước, họ chọn tin vào bằng chứng, tin vào phương pháp và tin vào giá trị công việc mình đang làm.',
-    'Các em học sinh thân mến, không ai yêu cầu các em sau cuốn sách này phải trở thành nhà khoa học vĩ đại hay nhất thiết phải chọn một ngành nghề kỹ thuật. Điều cuốn sách này mong muốn trao cho các em là lòng tự tin: tự tin đặt câu hỏi về thế giới, tự tin cầm lấy chiếc kìm, que hàn, ống nghiệm hay cuốn tập ghi dữ liệu; và trên hết, tự tin rằng trí tuệ và sự kiên nhẫn của em hoàn toàn có chỗ đứng trong thế giới tri thức hiện đại.',
-    'Bây giờ, trang sách của họ đã tạm khép lại. Phần tiếp theo – trang giấy trắng của chính các em – đã đến lúc bắt đầu.',
+    'Các bạn học sinh thân mến, không ai yêu cầu các bạn sau cuốn sách này phải trở thành nhà khoa học vĩ đại hay nhất thiết phải chọn một ngành nghề kỹ thuật. Điều cuốn sách này mong muốn trao cho các bạn là lòng tự tin: tự tin đặt câu hỏi về thế giới, tự tin cầm lấy chiếc kìm, que hàn, ống nghiệm hay cuốn tập ghi dữ liệu; và trên hết, tự tin rằng trí tuệ và sự kiên nhẫn của bạn hoàn toàn có chỗ đứng trong thế giới tri thức hiện đại.',
+    'Bây giờ, trang sách của họ đã tạm khép lại. Phần tiếp theo – trang giấy trắng của chính các bạn – đã đến lúc bắt đầu.',
   ],
 };
 
@@ -85,7 +85,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Từ chỗ ngại ngùng với các đầu dây nối và bảng mạch, các nữ sinh trong lớp dần trở nên thuần thục khi kiểm tra điện áp, vẽ sơ đồ phân phối tải và tính toán hiệu quả năng lượng. Cô Như Quỳnh không đưa ra đáp án có sẵn; cô dạy học sinh cách đặt câu hỏi, cách ghi chép số liệu đo lường theo thời gian thực và cách so sánh với thực tế.',
       'Cách tiếp cận ấy đã chứng minh rằng: khoa học không phải là điều bí ẩn trong sách giáo khoa, mà chính là công cụ để người học hiểu rõ hơn và làm chủ môi trường sống xung quanh mình mỗi ngày.',
     ],
-    reflectionQuestion: 'Một hiện tượng liên quan đến việc sử dụng năng lượng trong gia đình hoặc trường học khiến em tò mò là gì? Cách bắt đầu từ đời sống người học trong câu chuyện giúp em nghĩ ra câu hỏi nào?',
+    reflectionQuestion: 'Một hiện tượng liên quan đến việc sử dụng năng lượng trong gia đình hoặc trường học khiến bạn tò mò là gì? Cách bắt đầu từ đời sống người học trong câu chuyện giúp bạn nghĩ ra câu hỏi nào?',
   },
   {
     id: 'p1-02',
@@ -105,7 +105,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Hành trình không hề trải đầy hoa hồng. Có những mẻ màng bị giòn vỡ, có những lần dung dịch chưa đạt độ nhớt tiêu chuẩn. Nhưng cô Quyên luôn kiên nhẫn nhắc nhở học sinh: giá trị của nghiên cứu không nằm ở một bức áp phích quảng cáo bóng bẩy hay tên gọi hoa mỹ, mà nằm ở sự trung thực trong ghi chép, lặp lại thử nghiệm và đối chiếu số liệu đo đạc.',
       'Từ việc quan sát một mẩu rác thải quen thuộc, các em học sinh đã hiểu thế nào là quy trình nghiên cứu khoa học: tìm tài liệu, xử lý vật liệu thô, thử nghiệm có kiểm soát và rút ra kết luận dựa trên bằng chứng.',
     ],
-    reflectionQuestion: 'Nếu nhìn một vật liệu thường bị bỏ đi ở nơi em sống bằng một câu hỏi khoa học, em muốn tìm hiểu điều gì? Em cần kiểm tra điều gì trước khi cho rằng vật liệu đó hữu ích?',
+    reflectionQuestion: 'Nếu nhìn một vật liệu thường bị bỏ đi ở nơi bạn sống bằng một câu hỏi khoa học, bạn muốn tìm hiểu điều gì? Bạn cần kiểm tra điều gì trước khi cho rằng vật liệu đó hữu ích?',
   },
   {
     id: 'p1-03',
@@ -125,7 +125,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Thay vào đó, cô Trang cùng cả lớp phân tích lại các biến số: "Nhiệt độ phòng lúc đo có giống nhau không?", "Cách cắt lát biểu bì có đều không?". Chính từ những khoảnh khắc ấy, học sinh nhận ra bản chất của khoa học: sai số là điều bình thường, và việc tìm ra nguyên nhân của sự khác biệt chính là lúc sự hiểu biết thực sự diễn ra.',
       'Các giờ học của cô trở thành không gian nơi sự tò mò được tôn trọng, và mỗi học sinh đều cảm thấy mình là một người điều tra thực thụ chứ không phải một cỗ máy sao chép.',
     ],
-    reflectionQuestion: 'Theo em, điều gì làm một thí nghiệm trở thành hoạt động học tập có ý nghĩa? Chọn một ý trong câu chuyện và liên hệ với một giờ học em từng tham gia hoặc muốn được tham gia.',
+    reflectionQuestion: 'Theo bạn, điều gì làm một thí nghiệm trở thành hoạt động học tập có ý nghĩa? Chọn một ý trong câu chuyện và liên hệ với một giờ học bạn từng tham gia hoặc muốn được tham gia.',
   },
   {
     id: 'p1-04',
@@ -145,7 +145,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Cô thường nói: "Lắp ráp một mô hình cần người cầm kìm vặn ốc, nhưng cũng rất cần người quan sát cẩn thận để ghi chép xem chi tiết nào bị lệch sau mười phút chạy thử". Nhờ sự chu đáo ấy, những bạn trước đây nghĩ rằng "mình không có khiếu kỹ thuật" đã lần đầu tiên tự tay đo góc nghiêng, cắt vật liệu và góp tiếng nói vào quyết định chung của nhóm.',
       'Sự hòa nhập và tôn trọng từng thành viên đã biến các buổi học của cô thành một cộng đồng học tập ấm áp, nơi bất kỳ ai cũng có thể tự tin bước tới bàn thực hành.',
     ],
-    reflectionQuestion: 'Nếu được cùng giáo viên chuẩn bị một buổi STEM, em muốn góp ý điều gì để những bạn còn ngại thử cũng có việc để làm? Vì sao cách chuẩn bị ấy quan trọng?',
+    reflectionQuestion: 'Nếu được cùng giáo viên chuẩn bị một buổi STEM, bạn muốn góp ý điều gì để những bạn còn ngại thử cũng có việc để làm? Vì sao cách chuẩn bị ấy quan trọng?',
   },
   {
     id: 'p1-05',
@@ -165,7 +165,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Cô kiên trì đồng hành cùng từng nhóm nữ sinh dân tộc, động viên các em tự tin trình bày ý tưởng trước toàn trường và tham gia các cuộc thi sáng tạo cấp tỉnh. Với nhiều em, đó là lần đầu tiên các em được cầm chiếc que hàn, lần đầu tiên nhìn thấy một dòng mã lệnh điều khiển được động cơ bơm nước.',
       'Cơ hội đầu tiên ấy đã mở toang cánh cửa hy vọng, giúp các em tin rằng tri thức khoa học không thuộc về thế giới xa vời nào, mà nằm ngay trong bàn tay cần cù và khối óc sáng tạo của chính mình.',
     ],
-    reflectionQuestion: 'Một “cơ hội đầu tiên” để em hoặc một người bạn trực tiếp làm STEM có thể là gì? Em cần sự hỗ trợ nào để bắt đầu?',
+    reflectionQuestion: 'Một “cơ hội đầu tiên” để bạn hoặc một người bạn trực tiếp làm STEM có thể là gì? Bạn cần sự hỗ trợ nào để bắt đầu?',
   },
 
   // --- PHẦN II ---
@@ -188,7 +188,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Cô không để xảy ra tình trạng chia việc theo định kiến kiểu "nam sinh làm kỹ thuật, nữ sinh làm thuyết trình và trang trí". Mọi thành viên trong nhóm đều phải trải qua các bước thiết kế cơ khí, lập trình thuật toán dò đường và trực tiếp gỡ lỗi (debug) khi robot chạy sai hướng.',
       'Dưới sự dẫn dắt của cô, các đội thi toàn nữ sinh đã tự tin bước lên sàn đấu quốc gia và quốc tế, giành nhiều giải thưởng lớn. Nhưng quan trọng hơn hết, cô đã trao cho các em niềm tin vững chắc: kỹ thuật và công nghệ là sân chơi bình đẳng cho bất kỳ ai có đam mê và sự kiên trì.',
     ],
-    reflectionQuestion: 'Trong một nhóm làm robot hoặc mô hình, em muốn đảm nhận công việc kỹ thuật nào? Nhóm nên phân công ra sao để mọi bạn đều được thử, không dựa vào giới tính?',
+    reflectionQuestion: 'Trong một nhóm làm robot hoặc mô hình, bạn muốn đảm nhận công việc kỹ thuật nào? Nhóm nên phân công ra sao để mọi bạn đều được thử, không dựa vào giới tính?',
   },
   {
     id: 'p2-07',
@@ -209,7 +209,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Cô khuyến khích học sinh dùng chính lời văn và trực giác của mình để mô tả điều các em vừa nhìn thấy và đo được. Khi học sinh đã có hình dung trực quan và dữ liệu thực tế trong tay, công thức toán học xuất hiện như một công cụ đắc lực để tổng kết quy luật, chứ không còn là một gánh nặng trí nhớ.',
       'Bằng phương pháp ấy, cô đã biến môn Vật lí từ một môn học "đáng sợ" thành một lăng kính diệu kỳ, giúp các thế hệ học sinh – đặc biệt là các nữ sinh – tìm thấy niềm vui trong việc giải mã thế giới xung quanh.',
     ],
-    reflectionQuestion: 'Có hiện tượng Vật lí nào em muốn tự quan sát thay vì chỉ học công thức? Hãy nêu điều em muốn nhìn thấy hoặc đo được để giải thích hiện tượng đó.',
+    reflectionQuestion: 'Có hiện tượng Vật lí nào bạn muốn tự quan sát thay vì chỉ học công thức? Hãy nêu điều bạn muốn nhìn thấy hoặc đo được để giải thích hiện tượng đó.',
   },
   {
     id: 'p2-08',
@@ -230,7 +230,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Cô hướng dẫn học sinh dùng bảng tính để mô hình hóa sự thay đổi dân số, dùng các ứng dụng mã nguồn mở để vẽ đồ thị hàm số và lập trình các trò chơi giáo dục đơn giản để dạy lại cho các em nhỏ ở khu phố. Cô dạy học sinh tư duy phản biện trước dữ liệu trên mạng: nguồn thông tin này từ đâu? Sai số ở chỗ nào?',
       'Nhờ đó, học sinh của cô không bị biến thành những người tiêu thụ công nghệ thụ động, mà trở thành những người sử dụng công nghệ có trách nhiệm, có chủ đích và có tư duy sáng tạo sâu sắc.',
     ],
-    reflectionQuestion: 'Khi nào một thiết bị hoặc ứng dụng thực sự giúp em hiểu bài hơn? Nêu một cách dùng công nghệ để tự tìm hiểu hoặc kiểm tra ý tưởng, thay vì chỉ sao chép thông tin.',
+    reflectionQuestion: 'Khi nào một thiết bị hoặc ứng dụng thực sự giúp bạn hiểu bài hơn? Nêu một cách dùng công nghệ để tự tìm hiểu hoặc kiểm tra ý tưởng, thay vì chỉ sao chép thông tin.',
   },
   {
     id: 'p2-09',
@@ -251,7 +251,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Ngay dưới những mái hiên và khoảng sân vừa được làm mới, Rouble Nagi thành lập các trung tâm học tập cộng đồng miễn phí. Tại đây, trẻ em nghèo được học đọc, học viết, học kỹ năng sống và làm quen với những khái niệm toán học, khoa học cơ bản thông qua màu vẽ và các trò chơi vận động.',
       'Câu chuyện của Rouble Nagi cho thấy: giáo dục và cơ hội học tập không thể chờ đợi điều kiện lý tưởng. Bằng việc biến chính không gian sống cơ cực thành môi trường học tập ấm áp, cô đã trao cho những đứa trẻ yếu thế nhất chiếc chìa khóa để tự tin bước ra thế giới.',
     ],
-    reflectionQuestion: 'Theo em, một không gian học tập cần có điều gì để các bạn ít điều kiện vẫn tham gia được? Nhóm em có thể làm một việc nhỏ nào để mở rộng cơ hội ấy?',
+    reflectionQuestion: 'Theo bạn, một không gian học tập cần có điều gì để các bạn ít điều kiện vẫn tham gia được? Nhóm bạn có thể làm một việc nhỏ nào để mở rộng cơ hội ấy?',
   },
 
   // --- PHẦN III ---
@@ -274,7 +274,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Bà tỉ mỉ đo đạc điện tích của từng phần cặn lắng bằng chiếc điện nghiệm nhạy bén do Pierre chế tạo. Hàng nghìn phép đo lặp đi lặp lại không làm bà nản lòng. Từ hàng tấn quặng thô kệch, cuối cùng bà đã tinh chế được một phần mười gam radium chloride phát ra ánh sáng huỳnh quang xanh biếc trong bóng tối.',
       'Khám phá ấy đã làm thay đổi hoàn toàn hiểu biết của nhân loại về cấu trúc nguyên tử, mang lại cho bà hai giải Nobel ở hai lĩnh vực khác nhau. Di sản của Marie Curie không chỉ là radium hay polonium, mà là bài học bất hủ về lòng kiên trì và kỷ luật thép trong lao động khoa học.',
     ],
-    reflectionQuestion: 'Chi tiết nào cho thấy khám phá khoa học cần những công việc bền bỉ? Nếu phải lặp lại một phép thử chưa có kết quả rõ ràng, em muốn ghi chép điều gì để biết mình đang tiến bộ?',
+    reflectionQuestion: 'Chi tiết nào cho thấy khám phá khoa học cần những công việc bền bỉ? Nếu phải lặp lại một phép thử chưa có kết quả rõ ràng, bạn muốn ghi chép điều gì để biết mình đang tiến bộ?',
   },
   {
     id: 'p3-11',
@@ -295,7 +295,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Bà tính toán hình học quỹ đạo bay cho Alan Shepard – người Mỹ đầu tiên bay vào vũ trụ, và tính toán cửa sổ phóng cho sứ mệnh đổ bộ Mặt Trăng Apollo 11 lịch sử. Khi NASA lần đầu đưa máy tính điện tử IBM vào tính toán quỹ đạo vòng quanh Trái Đất của phi hành gia John Glenn, Glenn đã kiên quyết từ chối bay nếu Katherine chưa đích thân kiểm tra lại các con số: "Nếu cô ấy nói các con số là đúng, tôi mới sẵn sàng lên đường".',
       'Độ chính xác trong từng phép tính của Katherine Johnson đã giữ an toàn cho tính mạng của các phi hành gia và đưa nhân loại bước những bước chân đầu tiên ra ngoài vũ trụ bao la.',
     ],
-    reflectionQuestion: 'Vì sao sự chính xác trong công việc của Katherine Johnson lại quan trọng? Trong một dự án nhóm của em, kết quả nào cần được người khác kiểm tra lại?',
+    reflectionQuestion: 'Vì sao sự chính xác trong công việc của Katherine Johnson lại quan trọng? Trong một dự án nhóm của bạn, kết quả nào cần được người khác kiểm tra lại?',
   },
   {
     id: 'p3-12',
@@ -316,7 +316,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Tu Youyou nhận ra rằng các phương pháp chiết xuất đun sôi truyền thống trước đây ở nhiệt độ cao đã phá hủy hoạt chất quý giá. Bà lập tức đổi sang phương pháp chiết xuất bằng dung môi ete ở nhiệt độ thấp. Kết quả thử nghiệm trên chuột đạt hiệu quả ức chế ký sinh trùng 100%. Để đảm bảo an toàn tuyệt đối trước khi thử nghiệm lâm sàng trên bệnh nhân, bà đã dũng cảm tự tiêm mẫu chiết vào chính cơ thể mình để kiểm tra độc tính.',
       'Hoạt chất artemisinin ra đời từ đó, cứu sống hàng chục triệu người ở châu Phi và châu Á. Hành trình của bà là minh chứng sống động cho việc: tri thức bản địa là khởi nguồn quý giá, nhưng phải qua thực nghiệm khoa học khắt khe mới tạo nên thành tựu cứu rỗi nhân loại.',
     ],
-    reflectionQuestion: 'Một kinh nghiệm hoặc tri thức truyền thống ở cộng đồng em có thể gợi ra câu hỏi nghiên cứu nào? Cần làm gì để phân biệt gợi ý ban đầu với kết luận đã có bằng chứng? Không tự thử dược liệu hoặc cách chữa bệnh.',
+    reflectionQuestion: 'Một kinh nghiệm hoặc tri thức truyền thống ở cộng đồng bạn có thể gợi ra câu hỏi nghiên cứu nào? Cần làm gì để phân biệt gợi ý ban đầu với kết luận đã có bằng chứng? Không tự thử dược liệu hoặc cách chữa bệnh.',
   },
   {
     id: 'p3-13',
@@ -337,7 +337,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Phương pháp làm việc của Maryam rất đặc biệt: cô thường trải những cuộn giấy trắng khổng lồ ra sàn nhà, ngồi bệt xuống và vẽ nguệch ngoạc hàng trăm hình vẽ kỳ lạ, hoa văn uốn lượn kèm theo các phương trình. Con gái cô từng nghĩ mẹ mình là một họa sĩ. Maryam ví việc giải toán giống như bị lạc trong một khu rừng rậm rạp, bạn phải kiên nhẫn thử từng lối mòn, vấp ngã nhiều lần rồi mới nhìn thấy ánh sáng.',
       'Cô dạy chúng ta rằng: năng lực toán học thực sự không nằm ở tốc độ bấm máy tính hay tính nhẩm nhanh, mà nằm ở sức mạnh của trí tưởng tượng, khả năng nhìn thấy mối liên hệ giữa những điều tưởng chừng rời rạc và sự kiên trì ở lại với một bài toán khó.',
     ],
-    reflectionQuestion: 'Khi chưa tìm ra lời giải, em thường nghĩ gì về khả năng của mình? Câu chuyện này gợi cho em cách nào để tiếp tục với một vấn đề khó mà chưa vội kết luận mình không làm được?',
+    reflectionQuestion: 'Khi chưa tìm ra lời giải, bạn thường nghĩ gì về khả năng của mình? Câu chuyện này gợi cho bạn cách nào để tiếp tục với một vấn đề khó mà chưa vội kết luận mình không làm được?',
   },
   {
     id: 'p3-14',
@@ -358,7 +358,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Bà nhận nhiệm vụ cực kỳ phức tạp: lập trình các thuật toán xử lý hàng triệu điểm dữ liệu từ vệ tinh radar đo cao để tính toán mô hình hình học thực tế của Trái Đất (geoid). Trái Đất của chúng ta không phải là một hình cầu hoàn hảo; lực hấp dẫn thay đổi tùy theo các dãy núi, rãnh đại dương và mảng kiến tạo. Nếu không có mô hình toán học chuẩn xác của Gladys West, mọi tín hiệu vệ tinh GPS ngày nay sẽ bị lệch hàng chục cây số.',
       'Trong suốt sự nghiệp, bà chỉ lặng lẽ làm việc với những dãy số và bìa đục lỗ máy tính, không hề tìm kiếm sự nổi tiếng. Chỉ mãi đến khi về già, thế giới mới vinh danh bà là "người kiến tạo thầm lặng của kỷ nguyên định vị toàn cầu".',
     ],
-    reflectionQuestion: 'Câu chuyện giúp em nhìn khác đi thế nào về những công việc ít được chú ý phía sau một công nghệ quen thuộc? Trong nhóm học tập, em muốn đóng góp thầm lặng nào được ghi nhận rõ hơn?',
+    reflectionQuestion: 'Câu chuyện giúp bạn nhìn khác đi thế nào về những công việc ít được chú ý phía sau một công nghệ quen thuộc? Trong nhóm học tập, bạn muốn đóng góp thầm lặng nào được ghi nhận rõ hơn?',
   },
   {
     id: 'p3-15',
@@ -379,7 +379,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Năm 1987, khi NASA mở đợt tuyển chọn phi hành gia, Mae nộp đơn cùng hơn 2.000 ứng viên khác và trúng tuyển. Ngày 12 tháng 9 năm 1992, trên tàu con thoi Endeavour, Mae Jemison đã bay vào quỹ đạo, trở thành người phụ nữ da màu đầu tiên bay vào không gian. Trong chuyến bay, bà mang theo một tấm áp phích của nhà hát múa Alvin Ailey để nhắc nhở về tình yêu nghệ thuật của mình.',
       'Hành trình của Mae Jemison là nguồn cảm hứng lớn: một con người không cần phải giới hạn mình trong một khuôn mẫu đơn điệu. Khoa học, y học và nghệ thuật có thể hòa quyện, làm phong phú thêm tâm hồn và mở rộng biên giới của mọi giấc mơ.',
     ],
-    reflectionQuestion: 'Hai sở thích hoặc lĩnh vực em quan tâm có thể kết hợp như thế nào trong một dự án? Hành trình của Mae Jemison gợi cho em điều gì về việc lựa chọn con đường học tập?',
+    reflectionQuestion: 'Hai sở thích hoặc lĩnh vực bạn quan tâm có thể kết hợp như thế nào trong một dự án? Hành trình của Mae Jemison gợi cho bạn điều gì về việc lựa chọn con đường học tập?',
   },
   {
     id: 'p3-16',
@@ -400,7 +400,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Tháng 5 năm 1952, bà và nghiên cứu sinh Raymond Gosling đã chụp được bức ảnh lịch sử mang mã số "Bức ảnh 51" (Photo 51). Bức ảnh thể hiện rõ mô hình chữ X đặc trưng tuyệt đẹp của cấu trúc chuỗi xoắn kép. Bức ảnh và các tính toán định lượng chính xác của Franklin sau đó đã được chia sẻ cho James Watson và Francis Crick mà không có sự đồng ý rõ ràng của bà, giúp hai ông hoàn thiện mô hình DNA nổi tiếng.',
       'Khi Watson, Crick và Maurice Wilkins nhận giải Nobel năm 1962, Rosalind Franklin đã qua đời vì bệnh ung thư ở tuổi 37 và không được vinh danh trong giải thưởng. Câu chuyện về bà là lời nhắc nhở sâu sắc về đạo đức nghiên cứu, sự liêm chính khoa học và tầm quan trọng của việc ghi nhận công bằng công sức của những người trực tiếp tạo ra dữ liệu nền tảng.',
     ],
-    reflectionQuestion: 'Khi một nhóm có người đo đạc, người phân tích và người trình bày, nhóm nên ghi nhận đóng góp như thế nào? Nêu một nguyên tắc cụ thể em muốn nhóm mình áp dụng.',
+    reflectionQuestion: 'Khi một nhóm có người đo đạc, người phân tích và người trình bày, nhóm nên ghi nhận đóng góp như thế nào? Nêu một nguyên tắc cụ thể bạn muốn nhóm mình áp dụng.',
   },
   {
     id: 'p3-17',
@@ -421,7 +421,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Thay vì đi nghỉ mát cùng gia đình, Wu ở lại phòng thí nghiệm suốt kỳ nghỉ Giáng sinh và năm mới. Bà thiết kế một hệ thống thí nghiệm phức tạp tột bậc: làm lạnh các hạt nhân Cobalt-60 xuống gần độ không tuyệt đối (-273°C) bằng kỹ thuật khử từ đoạn nhiệt, rồi quan sát hướng phát xạ của các hạt electron trong quá trình phân rã beta.',
       'Kết quả thí nghiệm của Wu chấn động toàn cầu: các hạt electron phóng ra có hướng ưu tiên, chứng minh không thể chối cãi rằng định luật chẵn lẻ bị vi phạm trong tương tác yếu. Thí nghiệm mang tên bà ("Thí nghiệm Wu") đã đảo lộn nền tảng vật lý học hiện đại. Dù Lee và Yang nhận giải Nobel năm sau đó còn Wu bị bỏ quên một cách bất công, bà vẫn thanh thản tiếp tục cống hiến, bởi với bà, khoảnh khắc nhìn thấy chân lý tự nhiên lộ diện chính là phần thưởng quý giá nhất.',
     ],
-    reflectionQuestion: 'Nếu kết quả quan sát khác dự đoán, em nên kiểm tra những gì trước khi kết luận? Chi tiết nào trong câu chuyện khiến em coi trọng bằng chứng hơn mong đợi ban đầu?',
+    reflectionQuestion: 'Nếu kết quả quan sát khác dự đoán, bạn nên kiểm tra những gì trước khi kết luận? Chi tiết nào trong câu chuyện khiến bạn coi trọng bằng chứng hơn mong đợi ban đầu?',
   },
   {
     id: 'p3-18',
@@ -442,7 +442,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Sự kiên trì ấy đã được đền đáp bằng một phát hiện làm thay đổi định nghĩa về con người: Jane tận mắt chứng kiến một chú tinh tinh (cô đặt tên là David Greybeard) bẻ một nhánh cây, tuốt hết lá rồi khéo léo chọc vào tổ mối để bắt mối ăn. Cho đến thời điểm đó, khoa học vẫn tin rằng con người là sinh vật duy nhất biết chế tạo và sử dụng công cụ.',
       'Jane Goodall đã dành hơn 60 năm cuộc đời để bảo vệ loài linh trưởng và truyền cảm hứng cho hàng triệu bạn trẻ toàn cầu về lối sống hòa hợp, tôn trọng thiên nhiên và môi trường sống của muôn loài.',
     ],
-    reflectionQuestion: 'Một hiện tượng thiên nhiên quanh em có thể được quan sát nhiều lần mà không làm xáo trộn môi trường là gì? Em sẽ ghi chép thế nào để so sánh những lần quan sát?',
+    reflectionQuestion: 'Một hiện tượng thiên nhiên quanh bạn có thể được quan sát nhiều lần mà không làm xáo trộn môi trường là gì? Bạn sẽ ghi chép thế nào để so sánh những lần quan sát?',
   },
   {
     id: 'p3-19',
@@ -463,7 +463,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Tháng 1 năm 2003, Kalpana tiếp tục tham gia sứ mệnh khoa học STS-107 kéo dài 16 ngày, tiến hành hơn 80 thí nghiệm về khoa học vật liệu và sinh học không gian. Thảm kịch xảy ra vào ngày 1 tháng 2 năm 2003 khi con tàu Columbia gặp sự cố vỡ trong quá trình tái nhập khí quyển, cướp đi sinh mạng của cả 7 phi hành gia.',
       'Sự ra đi của Kalpana Chawla để lại niềm tiếc thương vô hạn, nhưng tinh thần quả cảm, niềm say mê khám phá khoa học và bài học sâu sắc về an toàn trong kỹ thuật hàng không vũ trụ của cô mãi là ngọn hải đăng soi sáng cho bao thế hệ trẻ.',
     ],
-    reflectionQuestion: 'Câu chuyện khiến em suy nghĩ gì về trách nhiệm an toàn trong khám phá khoa học? Trước một hoạt động CLB, em muốn nhóm thống nhất quy tắc nào?',
+    reflectionQuestion: 'Câu chuyện khiến bạn suy nghĩ gì về trách nhiệm an toàn trong khám phá khoa học? Trước một hoạt động CLB, bạn muốn nhóm thống nhất quy tắc nào?',
   },
   {
     id: 'p3-20',
@@ -484,7 +484,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Trong khu vườn nhỏ của mình, cô đã tự chế tạo một mô hình thí nghiệm thiên văn cực kỳ thông minh: cô treo một chiếc đèn bàn tròn lên xà nhà làm Mặt Trời, đặt một chiếc bàn tròn ở giữa làm Trái Đất, và cầm một chiếc gương tròn lớn làm Mặt Trăng. Bằng cách di chuyển chiếc gương và quan sát bóng tối đổ trên mặt bàn, cô đã mô phỏng chính xác nguyên lý nguyệt thực: Mặt Trăng đi vào vùng bóng tối do Trái Đất che khuất ánh sáng Mặt Trời.',
       'Bà đã viết nhiều khảo luận toán học và thiên văn học xuất sắc, đơn giản hóa các phép tính lượng giác phức tạp cho người học đương thời. Vương Trinh Nghi đã chứng minh bằng chính cuộc đời ngắn ngủi 29 năm của mình rằng: khát vọng tri thức và tư duy khoa học không thể bị giam cầm bởi bất kỳ khuôn mẫu định kiến nào.',
     ],
-    reflectionQuestion: 'Khi nghe một cách giải thích quen thuộc về hiện tượng tự nhiên, em có thể đặt câu hỏi gì để hiểu rõ hơn? Em muốn dùng quan sát, mô hình hoặc tài liệu để tìm lời giải như thế nào?',
+    reflectionQuestion: 'Khi nghe một cách giải thích quen thuộc về hiện tượng tự nhiên, bạn có thể đặt câu hỏi gì để hiểu rõ hơn? Bạn muốn dùng quan sát, mô hình hoặc tài liệu để tìm lời giải như thế nào?',
   },
   {
     id: 'p3-21',
@@ -505,7 +505,7 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Trong bài viết chú giải năm 1843, bà đã viết ra một sơ đồ chi tiết từng bước để cỗ máy tính toán chuỗi số Bernoulli. Đây được công nhận rộng rãi là thuật toán hoàn chỉnh đầu tiên trên thế giới được thiết kế chuyên biệt để thực thi trên máy tính – đưa Ada trở thành lập trình viên máy tính đầu tiên trong lịch sử loài người.',
       'Khái niệm "khoa học thi vị" (poetical science) của bà nhắc nhở chúng ta rằng: công nghệ máy tính vĩ đại nhất luôn được sinh ra từ nơi giao thoa giữa logic toán học và sức sáng tạo nhân văn.',
     ],
-    reflectionQuestion: 'Nếu tạo được một chương trình đơn giản, em muốn nó giúp giải quyết công việc nào trong đời sống hoặc học tập? Em sẽ mô tả đầu vào và kết quả mong muốn ra sao?',
+    reflectionQuestion: 'Nếu tạo được một chương trình đơn giản, bạn muốn nó giúp giải quyết công việc nào trong đời sống hoặc học tập? Bạn sẽ mô tả đầu vào và kết quả mong muốn ra sao?',
   },
   {
     id: 'p3-22',
@@ -547,6 +547,6 @@ export const STORY_FIGURES: StoryFigure[] = [
       'Điểm đặc biệt của Ixtlilton là nó hoạt động hoàn toàn ngoại tuyến (offline) – không cần kết nối internet – trên các máy tính cũ của trạm xá. Trợ lý có thể tương tác bằng cả tiếng Tây Ban Nha lẫn tiếng Tutunakú bản địa, giúp sàng lọc triệu chứng của 21 bệnh thường gặp và đưa ra hướng dẫn sơ cứu kịp thời trong khi chờ nhân viên y tế đến.',
       'Ángela luôn nhấn mạnh rằng Ixtlilton chỉ là công cụ hỗ trợ sàng lọc sơ bộ chứ không bao giờ thay thế được chẩn đoán chuyên môn của bác sĩ. Năm 2024, ở tuổi 17, Ángela vinh dự nhận giải thưởng "Học sinh toàn cầu" (Global Student Prize). Câu chuyện của cô là lời khẳng định mạnh mẽ gửi tới mọi bạn trẻ miền núi: bất kể bạn bao nhiêu tuổi hay ở nơi đâu, bạn hoàn toàn có thể dùng công nghệ để phụng sự quê hương mình.',
     ],
-    reflectionQuestion: 'Một vấn đề trong trường hoặc cộng đồng khiến em muốn tìm giải pháp công nghệ là gì? Trước khi tin vào giải pháp ấy, em sẽ xin phản hồi từ ai và kiểm tra điều gì?',
+    reflectionQuestion: 'Một vấn đề trong trường hoặc cộng đồng khiến bạn muốn tìm giải pháp công nghệ là gì? Trước khi tin vào giải pháp ấy, bạn sẽ xin phản hồi từ ai và kiểm tra điều gì?',
   },
 ];
